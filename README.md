@@ -1,2 +1,7 @@
 # CMPT470-Project
-an attempt to make a LSTM program to do binary classification of DNA-Protein Specification predictions
+A simple LSTM Script to do binary classification of DNA-Protein Specification predictions
+
+To Run:
+- Have the SampleData file in the same directory as the LSTM-Float Script
+- Install all required packages
+- Run the script
